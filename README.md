@@ -35,6 +35,13 @@ The application follows a modular architecture with a clear separation of concer
 - **CategoryDialog**: Dialog for managing expense categories
 - **ReportDialog**: Dialog for displaying expense reports with charts
 
+![expense_manager](https://github.com/user-attachments/assets/96f4240d-b776-44e8-9dfb-586380a20ddd)
+
+![category_managing](https://github.com/user-attachments/assets/7f009d07-363f-450b-8772-d6c993784abd)
+
+![report_generation](https://github.com/user-attachments/assets/22116301-1eeb-4389-9a9e-8e1a7e51ddcb)
+
+
 ## Installation
 
 ### Requirements
